@@ -30,8 +30,6 @@ All solutions are organized **topic-wise** for better readability and revision.
 
 ---
 
-## 🔗 LeetCode Profile
-https://leetcode.com/u/SouravOz/
 
 
 ---
